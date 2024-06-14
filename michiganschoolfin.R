@@ -98,5 +98,5 @@ descr(michq4$spending_ppr[michq4$year==1998])
 # i love r studido no i dont
 
 
-gpg --full-generate-key
+
 
